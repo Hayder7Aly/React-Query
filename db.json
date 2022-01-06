@@ -1,0 +1,188 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman ",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman bruce",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman ",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "hayder aly",
+      "alterEgo": "Programmer",
+      "id": 4
+    },
+    {
+      "name": "Black Adam",
+      "alterEgo": "Power of Super",
+      "id": 5
+    },
+    {
+      "name": "Shazam",
+      "alterEgo": "Billy batson",
+      "id": 6
+    },
+    {
+      "name": "thor",
+      "alterEgo": "ragnarok",
+      "id": 7
+    },
+    {
+      "name": "iron man",
+      "alterEgo": "johny",
+      "id": 8
+    },
+    {
+      "name": "",
+      "alterEgo": "",
+      "id": 9
+    },
+    {
+      "name": "Marvle",
+      "alterEgo": "Power",
+      "id": 10
+    },
+    {
+      "name": "def",
+      "alterEgo": "def",
+      "id": 11
+    },
+    {
+      "name": "ererer",
+      "alterEgo": "ererer",
+      "id": 12
+    },
+    {
+      "name": "",
+      "alterEgo": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "alterEgo": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "alterEgo": "",
+      "id": 15
+    },
+    {
+      "name": "",
+      "alterEgo": "",
+      "id": 16
+    },
+    {
+      "name": "",
+      "alterEgo": "",
+      "id": 17
+    },
+    {
+      "name": "",
+      "alterEgo": "",
+      "id": 18
+    },
+    {
+      "name": "",
+      "alterEgo": "",
+      "id": 19
+    },
+    {
+      "name": "",
+      "alterEgo": "",
+      "id": 20
+    },
+    {
+      "name": "",
+      "alterEgo": "",
+      "id": 21
+    },
+    {
+      "name": "",
+      "alterEgo": "",
+      "id": 22
+    },
+    {
+      "name": "",
+      "alterEgo": "",
+      "id": 23
+    },
+    {
+      "name": "fresh 1",
+      "alterEgo": "def",
+      "id": 24
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Hayder Aly"
+    },
+    {
+      "id": 2,
+      "name": "Jutt Bhai"
+    },
+    {
+      "id": 3,
+      "name": "Goriya Jutt"
+    }
+  ],
+  "users": [
+    {
+      "id": "example@gmail.com",
+      "channelId": "codeEvolation"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codeEvolation",
+      "courses": [
+        "React",
+        "Vue",
+        "Angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "white"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "black"
+    },
+    {
+      "id": 5,
+      "label": "purple"
+    },
+    {
+      "id": 6,
+      "label": "yellow"
+    },
+    {
+      "id": 7,
+      "label": "pink"
+    },
+    {
+      "id": 8,
+      "label": "red"
+    }
+  ]
+}
